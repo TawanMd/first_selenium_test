@@ -1,0 +1,16 @@
+altgraph==0.17.4
+cffi==1.17.1
+charset-normalizer==3.4.1
+cryptography==44.0.1
+packaging==24.2
+pdfminer.six==20231228
+pdfplumber==0.11.5
+pefile==2023.2.7
+pillow==11.1.0
+pycparser==2.22
+pyinstaller==6.12.0
+pyinstaller-hooks-contrib==2025.1
+PyPDF2==3.0.1
+pypdfium2==4.30.1
+pywin32-ctypes==0.2.3
+setuptools==75.8.1
